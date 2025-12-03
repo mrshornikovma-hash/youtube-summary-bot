@@ -1,2 +1,2 @@
 # youtube-summary-bot
-🚀 Project supported by Agent Py. Join for updates and new modules!
+🚀 Project supported by [Agent Py](https://t.me/agent_py). Join for updates and new modules!
